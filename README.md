@@ -16,9 +16,12 @@ In somewhat of a loose order:
 
 ### Dev Tools
 - VSCode
+   - Most things synced automatically with Github account
+   - Manual Installs:
+      - [GitOps Plugin](https://github.com/weaveworks/vscode-gitops-tools/releases)
 - Fonts
-   - Hack
-   - MesloLGS NF
+   - Hack (VSC text editor)
+   - MesloLGS NF (VSC terminal)
 - Sublime
 - [Lens](https://k8slens.dev/) for Kubernetes
 

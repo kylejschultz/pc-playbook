@@ -3,22 +3,24 @@ Repo for my Ansible Playbook to run when a fresh install is done to take some of
 
 ## List of Things I Install
 In somewhat of a loose order:
-### Personal
+### Core
 - 1Password
 - Discord & BetterDiscord
 - Beacn App (Beacn Mix and Beacn Mic)
+- Nvidia Geforce and Drivers
 - DisplayFusion
-- 
 - Steam
 - Epic
+- Snagit
+- Spotify
+
+### Dev Tools
 - VSCode
 - Fonts
    - Hack
    - MesloLGS NF
 - Sublime
-- Nvidia Geforce and Drivers
-- Snagit
-- Spotify
+- [Lens](https://k8slens.dev/) for Kubernetes
 
 ### Work
 - Chrome

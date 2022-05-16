@@ -1,5 +1,5 @@
 # pc-playbook
-Repo for my Ansible Playbook to run when a fresh install is done to take some of the tedium out of the twice-annual Windows reinstalls.
+Repo for my Ansible Playbook to run when a fresh install is done to take some of the tedium out of the twice-annual Windows reinstalls.  Currently, there is no playbook, but I'm trying to keep track of apps that I will want to make sure I carry over to a clean installation of Windows.
 
 ## List of Things I Install
 In somewhat of a loose order:
@@ -18,6 +18,8 @@ In somewhat of a loose order:
 - [Snagit](https://download.techsmith.com/snagit/releases/2145/snagit.exe)
    - Direct link to licensed version.
 - [Spotify](https://www.spotify.com/us/download/windows/)
+- [StartAllBack](https://www.startallback.com/)
+   - Gives extra functionality to taskbar, start menu and more.
 
 ### Dev Tools
 - [WSL2](https://docs.microsoft.com/en-us/windows/wsl/install)

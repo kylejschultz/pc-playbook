@@ -5,12 +5,13 @@ Repo for my Ansible Playbook to run when a fresh install is done to take some of
 In somewhat of a loose order:
 ### Core
 - 1Password
+- Chrome
+- Google Drive Sync
+- DisplayFusion
 - Discord & BetterDiscord
 - Beacn App (Beacn Mix and Beacn Mic)
 - Nvidia Geforce and Drivers
 - Logitech Capture for webcam
-- Google Drive Sync
-- DisplayFusion
 - Steam
 - Epic
 - Snagit
@@ -30,7 +31,6 @@ In somewhat of a loose order:
 - [Lens](https://k8slens.dev/) for Kubernetes
 
 ### Work
-- Chrome
 - Teams
 - Office Suite
 - Zoom

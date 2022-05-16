@@ -8,6 +8,8 @@ In somewhat of a loose order:
 - Discord & BetterDiscord
 - Beacn App (Beacn Mix and Beacn Mic)
 - Nvidia Geforce and Drivers
+- Logitech Capture for webcam
+- Google Drive Sync
 - DisplayFusion
 - Steam
 - Epic
@@ -15,6 +17,8 @@ In somewhat of a loose order:
 - Spotify
 
 ### Dev Tools
+- WSL2
+   - Dev box instance on W: drive
 - VSCode
    - Most things synced automatically with Github account
    - Manual Installs:
@@ -31,6 +35,9 @@ In somewhat of a loose order:
 - Office Suite
 - Zoom
 - Slack
+
+### Extras
+- [DualSenseX](https://github.com/Paliverse/DualSenseX) - Better PS5 Controller Support
 
 ## Tasks to Automate
 - Driver updates
